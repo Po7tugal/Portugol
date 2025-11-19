@@ -36,6 +36,6 @@ Você pode usar Visualg ou Portugol Studio para rodar os códigos.
 
 ⸻
 
-🧑‍💻 Autor
+# 🧑‍💻 Autor
 
 👤 Filipe Portugal
