@@ -1,4 +1,4 @@
-📘 Exercícios Básicos de Algoritmia em Portugol
+# 📘 Exercícios Básicos de Algoritmia em Portugol
 
 Bem-vindo(a) ao meu repositório de Exercícios de Algoritmia em Portugol!
 Aqui reuni várias atividades práticas que estou fazendo para desenvolver raciocínio lógico, entender a base da programação e aprender como resolver problemas de forma clara e estruturada.
