@@ -1,44 +1,44 @@
-# 📘 Exercícios Básicos de Algoritmia em Portugol
+# 📘 Basic Algorithm Exercises in Portugol
 
-Bem-vindo(a) ao meu repositório de Exercícios de Algoritmia em Portugol!
-Aqui reuni várias atividades práticas que estou a fazer para desenvolver o raciocínio lógico, entender a base da programação e aprender como resolver problemas de forma clara e estruturada.
+Welcome to my repository of Algorithm Exercises in Portugol!  
+Here I’ve gathered several practical activities I'm working on to improve logical thinking, understand programming fundamentals, and learn how to solve problems clearly and structurally.
 
-⸻
+---
 
-🧩 Sobre este Repositório
+## 🧩 About This Repository
 
-Este repositório tem como objetivo:
+This repository aims to:
 
-*   Desenvolver lógica de programação antes de partir para linguagens mais avançadas;
-*   Praticar entrada, processamento e saída de dados;
-*   Treinar condições, repetições, vetores, funções e outros conceitos fundamentais;
-*   Criar algoritmos bem organizados, comentados e fáceis de entender.
+- Develop programming logic before moving on to more advanced languages  
+- Practice input, processing, and output of data  
+- Train conditionals, loops, arrays, functions, and other essential concepts  
+- Create well-organized, commented, and easy-to-understand algorithms  
 
-⸻
+---
 
-⚙️ Como Executar os Algoritmos
+## ⚙️ How to Run the Algorithms
 
-Pode usar o Visualg ou o Portugol Studio para rodar os códigos.
+You can use **Visualg** or **Portugol Studio** to execute the code.
 
-1.  Abra o Visualg ou o Portugol Studio.
-2.  Copie o código de um arquivo `.por`.
-3.  Cole no editor.
-4.  Execute (F9 no Visualg ou "Executar" no Portugol Studio).
+1. Open Visualg or Portugol Studio  
+2. Copy the code from a `.por` file  
+3. Paste it into the editor  
+4. Run it (F9 in Visualg or “Run” in Portugol Studio)
 
-⸻
+---
 
-🧠 Conteúdos Abordados
+## 🧠 Topics Covered
 
-*   Variáveis e tipos de dados
-*   Estrutura sequencial
-*   Estruturas condicionais (`se`, `senao`)
-*   Estruturas de repetição (`enquanto`, `para`, `repita`)
-*   Vetores e matrizes
-*   Funções e procedimentos
-*   Exercícios de lógica aplicada
+- Variables and data types  
+- Sequential structures  
+- Conditional structures (if, else)  
+- Loop structures (while, for, repeat)  
+- Vectors and matrices  
+- Functions and procedures  
+- Applied logic exercises  
 
-⸻
+---
 
-# 🧑‍💻 Autor
+## 🧑‍💻 Author
 
-👤 Filipe Portugal
+**👤 Filipe Portugal**
